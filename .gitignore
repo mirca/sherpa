@@ -32,6 +32,7 @@ sherpa/optmethods/src/minpack/_minpackmodule.c
 
 # Sphinx documentation
 _build
+docs/_generated/*png
 
 # VI
 *.swp

@@ -1,0 +1,5 @@
+ipython
+numpy>=1.6.0
+numpydoc
+matplotlib
+astropy

@@ -30,6 +30,14 @@ from the  Chandra X-ray telescope, but it is designed to be a
 general-purpose package, which can be enhanced with domain-specific
 tasks (such as X-ray Astronomy).
 
+.. _user_docs::
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Documentation
+
+   example
+
 .. _help_docs::
 
 .. toctree::
