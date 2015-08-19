@@ -30,6 +30,9 @@ sherpa/optmethods/src/_minimmodule.c
 sherpa/optmethods/src/minpack/_minpack-f2pywrappers.f
 sherpa/optmethods/src/minpack/_minpackmodule.c
 
+# Sphinx documentation
+_build
+
 # VI
 *.swp
 
