@@ -8,8 +8,8 @@
 
     <style media="screen" type="text/css">h1 { display: none; }</style>
    
-Welcome to Sherpa's documentation!
-==================================
+Welcome to Sherpa's documentation
+=================================
 
 .. image:: _static/sherpa_logo.png
     :width: 350px
@@ -21,7 +21,7 @@ Welcome to Sherpa's documentation!
    This is an *experimental build* of the Sherpa documentation. The
    information presented here is not guaranteed to be correct.
 
-Welcome to the Sherpa documentation! Sherpa is a Python package for
+Welcome to the Sherpa documentation. Sherpa is a Python package for
 modeling and fitting data. It was originally developed by the
 `Chandra X-ray Center <http://cxc.harvard.edu/>`_ for use in
 `analysing X-ray data (both spectral and imaging)
