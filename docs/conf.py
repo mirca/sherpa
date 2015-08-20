@@ -30,6 +30,9 @@ sherpa_version_elements = sherpa.__versionstr__.split('.')
 sherpa_version = '.'.join(sherpa_version_elements[:-1])
 sherpa_release = sherpa.__version__
 
+# For sherpaext
+sys.path.insert(0, os.path.abspath('.'))
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -45,7 +48,8 @@ extensions = [
     'sphinx.ext.viewcode',
 
     'IPython.sphinxext.ipython_console_highlighting',
-    'IPython.sphinxext.ipython_directive',
+    # 'IPython.sphinxext.ipython_directive',
+    'sherpaext.ipython_directive',
     'numpydoc.numpydoc'
 ]
 
